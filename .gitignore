@@ -1,0 +1,14 @@
+backend/static/
+backend/__pycache__/*
+backend/news.db
+backend/news_reader_session.session
+backend/telegram_news_reader.log
+.DS_Store
+.env
+.idea/
+__pycache__
+backend/news.db
+backend/news_reader_session.session
+/backend/news.db
+/backend/news.dbpython3
+/backend/news_reader_session.session
