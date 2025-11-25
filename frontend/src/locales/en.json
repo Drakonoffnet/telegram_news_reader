@@ -1,0 +1,42 @@
+{
+  "app": {
+    "title": "Telegram News Reader"
+  },
+  "nav": {
+    "newsFeed": "News Feed",
+    "manageChannels": "Manage Channels"
+  },
+  "common": {
+    "add": "Add",
+    "adding": "Adding...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "refresh": "Refresh",
+    "refreshing": "Refreshing..."
+  },
+  "groups": {
+    "manage": "Manage Groups",
+    "placeholder": "New Group Name",
+    "add": "Add Group",
+    "none": "No Group",
+    "all": "All Groups",
+    "deleteConfirm": "Delete group? Channels in this group will be ungrouped.",
+    "addError": "Failed to add group",
+    "deleteError": "Failed to delete group"
+  },
+  "channels": {
+    "manage": "Manage Channels",
+    "placeholder": "Enter channel name (e.g. telegram)",
+    "neverUpdated": "Never updated",
+    "deleteConfirm": "Are you sure you want to delete this channel?",
+    "addError": "Failed to add channel",
+    "deleteError": "Failed to delete channel",
+    "updateError": "Failed to update channel"
+  },
+  "news": {
+    "title": "News Feed",
+    "notFound": "No news found."
+  }
+}
